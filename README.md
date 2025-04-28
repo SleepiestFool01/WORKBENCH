@@ -35,7 +35,6 @@ python3 transpiler.py reverse_repeat.txt
 
 gcc output.c -o output   
 
-
 HOW TO RUN "WORKBENCH"
 
 python3 workbench.py file.txt
@@ -51,3 +50,8 @@ python3 transpiler.py file.txt
 clang -S -emit-llvm output.c -o anyname.ll
 
 clang anyname.ll -o anyname
+
+NOTE 
+
+LLVM transpilers only work on some of the programs, only full proof way was to convert to C first.
+
