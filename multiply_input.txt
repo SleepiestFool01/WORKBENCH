@@ -1,0 +1,11 @@
+# Ask user for two numbers, multiply, and print result
+GLUE "Please enter a number you would like to multiply!"
+INSPECT
+MEASURE
+GLUE "*"
+INSPECT
+MEASURE
+GLUE "="
+INSPECT
+MORTISE
+INSPECT

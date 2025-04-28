@@ -1,0 +1,31 @@
+What do I want my programming language to be about?
+
+- Stack based language
+- Language must have at least 8 keywords/operators.
+
+Programs that must completed
+- helloworld.txt
+- cat.txt
+- multiply.txt
+- Multiplies two single-digit numbers and prints the result. Takes user input.
+- repeater.txt
+- Repeats a specific character a certain number of times. Takes user input.
+- reversestring.txt
+
+Code must be added to Github 
+
+Should support 
+integers on the stack
+
+CUT	    Push number to stack
+GLUE	Push string to stack
+MEASURE	Get input from user
+JOIN	Add top two numbers
+MORTISE	Multiply top two numbers
+TRIM	Subtract a number from top of stack
+REPEAT	Repeat a char N times
+REVERSE	Reverse a string
+SAND	Pop & discard top of stack
+INSPECT	Print top of stack
+IFZERO	Pops condition, if 0 executes next line
+END	Marks end of block (placeholder for future flow control)

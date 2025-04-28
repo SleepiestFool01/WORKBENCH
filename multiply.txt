@@ -1,0 +1,5 @@
+# Multiply two numbers and print the result in Workbench
+CUT 5
+CUT 7
+MORTISE
+INSPECT

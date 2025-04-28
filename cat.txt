@@ -1,0 +1,5 @@
+# Cat program in workbench Ask the user for input and print it back
+GLUE "Hello, type something"
+INSPECT
+MEASURE
+INSPECT

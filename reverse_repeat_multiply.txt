@@ -1,0 +1,18 @@
+GLUE "Please Enter a String" 
+INSPECT
+MEASURE
+REVERSE
+
+
+GLUE "Please enter a number you would like to multiply!"
+INSPECT
+MEASURE
+GLUE "*"
+INSPECT
+MEASURE
+MORTISE
+
+
+# This is the amount of times the string will be repeated
+REPEAT
+INSPECT

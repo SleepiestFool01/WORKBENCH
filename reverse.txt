@@ -1,0 +1,6 @@
+# Ask user for a string, reverse it, and print
+GLUE "Please Enter a String" 
+INSPECT
+MEASURE
+REVERSE
+INSPECT

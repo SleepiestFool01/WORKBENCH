@@ -1,0 +1,9 @@
+# Ask user for string and number of times to repeat
+GLUE "Please enter a string."
+INSPECT
+MEASURE    # Get the string to repeat
+GLUE "Enter how many times you'd like to repeat your string."
+INSPECT
+MEASURE    # Get the number of repetitions
+REPEAT
+INSPECT
